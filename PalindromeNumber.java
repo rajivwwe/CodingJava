@@ -12,4 +12,8 @@ while(n>0){
 a=n%10;
 b=b*10+a;
 }
+else{
+System.out.println(i+" Not a palindrome number");
+}
+
 }
