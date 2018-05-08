@@ -13,4 +13,9 @@ a=n%10;
 b=b*10+a;
 n=n/10;
 }
+if(b==i){
+System.out.println(i+" palindrome number");
+}
+
+}
 }
