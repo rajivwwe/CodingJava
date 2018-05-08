@@ -16,6 +16,9 @@ n=n/10;
 if(b==i){
 System.out.println(i+" palindrome number");
 }
+else{
+System.out.println(i+" Not a palindrome number");
+}
 
 }
 }
